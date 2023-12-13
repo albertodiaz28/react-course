@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Medical Appointment Booking
+
+This project is based on a react course from Coursera
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
